@@ -17,4 +17,4 @@ to start the project run
 docker-compose up
 ```
 
-the go to (127.0.0.1:8080) which run the airflow webserver on port 8080 and see all dags
+the go to [airflow](127.0.0.1:8080) which run the airflow webserver on port 8080 and see all dags
